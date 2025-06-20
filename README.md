@@ -11,3 +11,6 @@
 ### 🎯 Purpose
 
 - This repository is created for:
+  
+  - Consolidating my learning material for easy access
+  
