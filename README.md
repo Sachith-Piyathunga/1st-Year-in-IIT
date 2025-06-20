@@ -27,3 +27,4 @@
   📁 Module-6/ Web Design and Development
   📁 Module-6/ Trends in Computer Science
   Additional Notes
+  README.md
