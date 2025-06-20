@@ -25,3 +25,4 @@
   📁 Module-4/ English Communication skills
   📁 Module-5/ Software Development II
   📁 Module-6/ Web Design and Development
+  📁 Module-6/ Trends in Computer Science
