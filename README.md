@@ -20,4 +20,5 @@
 
 ```
   📁 Module-1/ Software Development I
+  📁 Module-2/ Mathematics for Computing  
   
