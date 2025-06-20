@@ -6,3 +6,4 @@
   - 📝 Assessment Materials & Reports
   - 🧠 Revision Notes
   - 📘 ICT Past Exam Papers & Answer References
+  - 🔍 Extra Learning Resources
