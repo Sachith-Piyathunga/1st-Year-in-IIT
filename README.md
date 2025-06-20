@@ -4,4 +4,5 @@
 
   - 📄 Lecture Slides & Notes
   - 📝 Assessment Materials & Reports
+  - 🧠 Revision Notes
 
