@@ -43,4 +43,5 @@
 
 - If you'd like to collaborate, give feedback, or share materials, feel free to connect with me:
 
- 
+  - 📧 Email: sachipiya845@gmail.com
+  - 🌐 LinkedIn: [Sachintha Chamod](https://www.linkedin.com/in/sachintha-piyathunga/)
