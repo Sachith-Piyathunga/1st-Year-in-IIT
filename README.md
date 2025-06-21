@@ -34,3 +34,4 @@
 ### 🧾 Notes
 
 - All content is based on personal study notes and materials that are publicly provided by lecturers.
+- This repo is regularly updated as I continue organizing and uploading files.
