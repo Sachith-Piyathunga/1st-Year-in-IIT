@@ -30,3 +30,7 @@
   README.md
 ```
 - Each folder contains categorized materials like PDFs, Word docs, screenshots, and notes relevant to specific subjects/modules.
+
+### 🧾 Notes
+
+- All content is based on personal study notes and materials that are publicly provided by lecturers.
