@@ -35,3 +35,6 @@
 
 - All content is based on personal study notes and materials that are publicly provided by lecturers.
 - This repo is regularly updated as I continue organizing and uploading files.
+
+### ⚠️ Disclaimer
+- This repository is intended only for educational and revision purposes. All academic content belongs to its respective owners. If you are a student, please use this as reference material and follow your institution’s academic honesty guidelines.
