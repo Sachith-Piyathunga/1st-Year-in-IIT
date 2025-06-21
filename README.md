@@ -38,3 +38,9 @@
 
 ### ⚠️ Disclaimer
 - This repository is intended only for educational and revision purposes. All academic content belongs to its respective owners. If you are a student, please use this as reference material and follow your institution’s academic honesty guidelines.
+
+## 📬 Contact
+
+- If you'd like to collaborate, give feedback, or share materials, feel free to connect with me:
+
+ 
