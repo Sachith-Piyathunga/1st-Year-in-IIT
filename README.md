@@ -28,3 +28,5 @@
   📁 Module-7/ Trends in Computer Science
   Additional Notes
   README.md
+```
+- Each folder contains categorized materials like PDFs, Word docs, screenshots, and notes relevant to specific subjects/modules.
