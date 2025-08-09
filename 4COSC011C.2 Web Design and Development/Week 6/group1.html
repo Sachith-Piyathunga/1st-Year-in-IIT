@@ -1,0 +1,63 @@
+<!doctype html>
+	<html>
+		<head>
+			<title>SVG</title>
+			
+			<style>
+			
+			#svgJS g:hover polyline,
+			#svgJS g:hover line {
+				fill: none;
+				stroke-width: 2;
+				stroke: black;
+			}
+
+			#svgJS g:hover g text,
+			#svgJS g:hover text {
+				font-weight: bold;
+			}
+
+			#svgJS g:hover polygon,
+			#svgJS g:hover rect,
+			#svgJS g:focus polygon,
+			#svgJS g:focus rect {
+				fill: hsla(24, 20%, 50%,.3);
+				stroke: black;
+				stroke-width: 2;
+			}
+			
+
+			</style>
+		</head>
+		<body>
+		
+			    <h1>My first SVG</h1>
+			<svg id="svgJS" height="500" width="180">
+			<g id="groupId1">
+				<rect x="15" y="130" height="50" width="150" stroke="purple" fill="none" stroke-width="2" />
+				<text fill="#000" font-size="14" x="90" y="160" font-family="Arial" text-anchor="middle">Home Page</text>
+			</g>
+			<g id="groupId2" >
+				<line id="shapeId2" stroke="purple" stroke-width="2" x1="90" y1="180" x2="90" y2="230"></line>
+				<polyline points="95, 220 90, 230 85, 220" stroke="purple" stroke-width="2" fill="none" />
+			</g>
+			<g id="groupId3" >
+				<rect x="15" y="230" height="50" width="150" stroke="purple" fill="none" stroke-width="2" />
+			<text fill="#000" font-size="14" x="90" y="260" font-family="Arial" text-anchor="middle">Schedule</text></g>
+			</g>
+			</svg>
+			
+			<script>
+				document.getElementById("groupId1").
+				addEventListener("click", function() {
+					document.location.href="index.html";
+			});
+			document.getElementById("groupId3").
+				addEventListener("click", function() {
+					document.location.href="schedule.html";
+			});
+			
+			</script>
+		</body>
+		
+	</html>
