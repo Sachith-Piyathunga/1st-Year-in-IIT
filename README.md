@@ -1,4 +1,4 @@
-### 📚 1st Year in UoW – BSc (Hons) Computer Science
+### 📚 1st Year in IIT – BSc (Hons) Computer Science
 
 - Welcome to my repository of first-year Computer Science studies at the University of Westminster (delivered through IIT, Sri Lanka). This repo serves as a structured archive of my learning journey, and includes:# 1st-Year-in-IIT
 
@@ -43,5 +43,5 @@
 
 - If you'd like to collaborate, give feedback, or share materials, feel free to connect with me:
 
-  - 📧 Email: sachipiya845@gmail.com
+  - 📧 Email: sachintha.piyathunga@gmail.com
   - 🌐 LinkedIn: [Sachintha Chamod](https://www.linkedin.com/in/sachintha-piyathunga/)
